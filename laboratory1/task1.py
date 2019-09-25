@@ -13,4 +13,4 @@ def armst():
     number += 1
     return number
 while number <= n:
-    armst()
+    armst() 
